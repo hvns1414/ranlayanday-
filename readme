@@ -1,0 +1,97 @@
+Sure! Here's the README file translated into English, tailored for your project "Ranlayan Dayı":
+
+Ranlayan Dayı - Project Overview
+
+Project Name: Ranlayan Dayı
+Author: hvns1414
+
+Category: [Category Name]
+License: [License Type]
+Last Update: [Date]
+
+Contents
+
+Project Overview
+
+Installation
+
+Usage
+
+Contributing
+
+License
+
+Contact
+
+Project Overview
+
+"Ranlayan Dayı" is a project that [briefly describe the purpose of the project, what it aims to achieve, and how it benefits the user]. The project is built using [mention any specific technology, library, or framework if applicable].
+
+Features
+
+[Feature 1]
+
+[Feature 2]
+
+[Feature 3]
+
+Screenshots
+
+[Include any relevant screenshots of the project’s user interface or important features.]
+
+Installation
+Requirements
+
+The following tools or software are required for the project:
+
+[Requirement 1]
+
+[Requirement 2]
+
+Step-by-Step Installation
+
+Clone this repository to your local machine:
+
+git clone https://github.com/hvns1414/ranlayan-dayi.git
+
+
+Install the dependencies:
+
+pip install -r requirements.txt
+
+
+[If there are any additional setup steps, list them here.]
+
+Start the project:
+
+python run.py
+
+Usage
+
+Provide instructions on how to use the project. You can include example commands or explanations of the user interface here.
+
+Commands
+
+[Command 1]
+
+[Command 2]
+
+Example
+python run.py --option [value]
+
+Contributing
+
+To contribute to the project, follow these steps:
+
+Fork this repository.
+
+Make your changes.
+
+Submit a pull request (PR) with your changes.
+
+We welcome contributions and appreciate your help in improving the project!
+
+License
+
+This project is licensed under the [License Type] license. For more details, see the LICENSE file
+.
