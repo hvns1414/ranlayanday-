@@ -115,7 +115,21 @@ from time import sleep
 import pygame
 from playsound import playsound
 import threading
+print(Back.Green+""" 
 
+|#######====================#######|
+|#(1)*UNITED STATES OF AMERICA*(1)#|
+|#**          /===\   ********  **#|
+|*# {G}      | (") |             #*|
+|#*  ******  | /v\ |    O N E    *#|
+|#(1)         \===/            (1)#|
+|##=========ONE DOLLAR===========##|
+------------------------------------
+
+
+
+
+""")
 def play_music():
     while True:
         playsound("laugh")
